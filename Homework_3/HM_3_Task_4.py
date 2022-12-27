@@ -42,8 +42,5 @@ c = int(input('Input a number of elements in your list: '))
 
 lst = create_list(a, b, c)
 print(lst)
-# lst_str = str(lst)
-# lst_list = list(lst_str)
 
-# print(type(lst_list))
 find_dif(lst)
